@@ -1,3 +1,51 @@
+# 📝 To-Do Keep — Checklist App like Google Keep
+
+To-Do Keep adalah aplikasi checklist sederhana terinspirasi dari Google Keep. Kamu bisa membuat checklist berwarna pastel, menambahkan item to-do, menandainya selesai, dan mengelola semuanya dalam tampilan bersih dan mobile-friendly.
+
+---
+
+## ✨ Fitur
+
+- ✅ Login dan Register
+- ✅ Checklist dengan warna pastel acak
+- ✅ Tambah & hapus checklist
+- ✅ Lihat detail checklist dan item-item-nya
+- ✅ Tambah item to-do (popup)
+- ✅ Edit nama item (popup)
+- ✅ Tandai selesai / belum (toggle)
+- ✅ Hapus item
+- ✅ Autentikasi menggunakan bearer token
+- ✅ Mobile responsive
+
+---
+
+## 🖼️ Screenshot
+
+### Dashboard (List Checklist)
+![Dashboard Screenshot](./screenshots/todo1.png)
+
+### Detail Checklist + Modal Item
+Warna background detail menyesuaikan card yang ditampilkan di dashboard
+![Checklist Detail](./screenshots/todo2.png) 
+![Popup Detail](./screenshots/todo3.png)
+
+> 💡 Letakkan screenshot di folder `screenshots/`
+
+---
+
+## 🚀 Teknologi
+
+- [Next.js 14 App Router](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Zustand](https://github.com/pmndrs/zustand)
+- [Axios](https://axios-http.com/)
+- [React Hook Form](https://react-hook-form.com/)
+- [Zod](https://zod.dev/)
+- [Vercel Hosting](https://vercel.com/)
+
+
+---------------------------
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
